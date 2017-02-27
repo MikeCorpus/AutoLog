@@ -8,7 +8,7 @@
       "16": "icon.png",
       "48": "icon.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwNWP5lb7wShho9GuZcG8trY2jpXkInVb8iJRNGWbd132pZVSMo2hJ52TDOlRxx9Vdpt8ZLl2dD0rRvbQwpj93nOUdkhmN89bej6YQ8zY7Ce0FlLDQtMkR4h1+xSdtmE1SikFT3z9QLGbJx7aUpOcXWXDmuwqOb8gjWzpcqux+G61gPTTC+NC/20yGyPZDp+Xa2F0l+pLwnCdgCqdFqejwmFtE63m5aOnV/v4hTuaj7MXMBQH1U/HkyIasP8RczSI/sFJSbbDr7iEL0lZVfvlB1NMtlM0Lbu0zFcg/WwbuXaSYk4a9j9Ms/Iu7GEAy9Bp4GyCKIc6ZS27KFztUb0dEQIDAQAB",
+   "key": "antiomnilog",
    "manifest_version": 2,
    "name": "Auto OmniLog",
    "options_page": "options.html",
